@@ -1,3 +1,3 @@
 # Reso
-> **Share the useful resources to the community.**
+> **Share the useful resources with the community.**
 
