@@ -111,4 +111,4 @@ STATIC_ROOT = BASE_DIR / 'static_production/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Custom User Model
-AUTH_USER_MODEL = 'apps.accounts.CustomUser'
+AUTH_USER_MODEL = 'accounts.CustomUser'
