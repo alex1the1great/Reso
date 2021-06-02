@@ -4,6 +4,7 @@ from django.conf import settings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', include('apps.reso.urls', namespace='reso'))
 ]
 
 if settings.DEBUG:
