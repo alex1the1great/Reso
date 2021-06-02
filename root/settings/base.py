@@ -109,3 +109,6 @@ STATIC_ROOT = BASE_DIR / 'static_production/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Custom User Model
+AUTH_USER_MODEL = 'apps.accounts.CustomUser'
