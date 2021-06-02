@@ -36,6 +36,7 @@ INSTALLED_APPS = [
 
     # Local
     'apps.reso.apps.ResoConfig',
+    'apps.accounts.apps.AccountsConfig',
 ]
 
 MIDDLEWARE = [
